@@ -1,2 +1,2 @@
 # Calculater
-This is repository
+This is Git repository
